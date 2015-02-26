@@ -1,26 +1,18 @@
-First commit, much excitement, 
+First commit, much excitement…..
+
+NOTE:
+the commits are not instantaneous
+
+- to go into a specific folder, just drag the folder holding the repository to the command prompt
+
+- Add files by calling git add <filename>
+
+- then commit these files by calling git commit
+then git push origin master, this updates the git
+
+- if master is not established yet call git remote add origin <website>
+
+- git commit -m “Message” will give your commit a message to tell the team what you changed 
 
 
-sdgsg
-dfsg
-dfg
-dfg
-dfg
-df
-g
-dfg
-dfs
-g
-dsfg
-sd
-fg
-sdf
-g
-sdf
-gd
-sfg
-sdf
-g
-sdf
-gsd
-fg
+
